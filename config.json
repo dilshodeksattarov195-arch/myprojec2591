@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadercelete",
+        "uuid": 14615831,
+        "checksum": "imn9rx"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
